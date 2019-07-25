@@ -27,7 +27,7 @@ if __name__=='__main__':
     source_dir = r'D:\a1'
     dst_dir = r'D:\a2'
     move_file(source_dir,dst_dir,['*.txt','*.json'])
-    print ("successful")
+    print ("update")
 
 
 
